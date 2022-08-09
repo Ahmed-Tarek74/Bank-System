@@ -6,7 +6,7 @@ package bank.system;
  */
 public class Account {
 
-    //attributes
+   
     protected double balance;
     protected int accountNum;
 
