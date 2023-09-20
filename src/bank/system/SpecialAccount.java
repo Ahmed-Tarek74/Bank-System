@@ -1,8 +1,8 @@
 package bank.system;
 /**
- * @author  Ziad Mohmed Nomaan Mohmed Zeater
- * @version 1.0
- * @since   2021-04-30
+ * @author Ahmed Tarek Soliman
+ * @version 1.1
+ * @since 2021-04-30
  */
 
 public class SpecialAccount extends Account {

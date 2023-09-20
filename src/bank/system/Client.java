@@ -2,7 +2,7 @@ package bank.system;
 
 /**
  * @author Ahmed Tarek Soliman
- * @version 1.0
+ * @version 1.1
  * @since 2021-04-30
  */
 public class Client {
